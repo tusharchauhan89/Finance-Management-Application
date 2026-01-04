@@ -78,22 +78,10 @@ Tushar Chauhan
 
 ---
 
-## 🎤 FINAL VIVA STATEMENT (PERFECT)
+## By doing the following steps 
 
-> “I developed a Python-based personal finance management system using SQLite, covering authentication, transaction tracking, reports, budgeting with alerts, data backup, and testing.”
+> “You have  developed a Python-based personal finance management system using SQLite, covering authentication, transaction tracking, reports, budgeting with alerts, data backup, and testing.”
 
 ---
 
-## 🎉 CONGRATULATIONS
 
-You now have a **complete, professional, real-world project**  
-✔ Internship-ready  
-✔ Viva-ready  
-✔ Submission-ready  
-
-If you want next:
-- 📄 **Project report (PDF format)**  
-- 🧠 **Viva questions & answers**  
-- 🖥 **Convert CLI → GUI / Web**  
-
-Just tell me 👍
